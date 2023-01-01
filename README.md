@@ -1,7 +1,11 @@
 # mac_changer
 By using this tool, you can simply change your mac address to a new mac address.
 
+INSTALLATION
 
+git clone https://github.com/SAHJADA-ABDULLAH/mac_changer.git
+
+cd mac_changer
 
 
 USAGE
